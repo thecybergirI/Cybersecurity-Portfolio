@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ElizabethTech
-- 👀 I’m interested in learning data science 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on data science or AI projects 
+- 👋 Hi, I’m @thecybergirl
+- 👀 I'm a cybersecurity enthusiast with hands-on basic SOC, Networking and pentesting skills  
+- 🌱 I’m currently expanding my knowledge and skill in this field
+- 💞️ I’m looking to collaborate on cybersecurity projects 
 - 📫 How to reach me elizabethnwifor@gmail.com 
 
 <!---
