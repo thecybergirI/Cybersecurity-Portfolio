@@ -14,15 +14,14 @@ Entry-Level Cybersecurity Analyst with hands-on experience and skill on labs and
 
 ## Tools
 Several tools that I used:
-
-Python
-Wazuh
-Nmap
-Tcpdump
-Wireshark
-Linux OS
-Splunk
-Suricata
+* Python
+* Wazuh
+* Nmap
+* Tcpdump
+* Wireshark
+* Linux OS
+* Splunk
+* Suricata
 
 ## Projects
 
@@ -42,8 +41,9 @@ Suricata
 - Tested for basic vulnerabilities (XSS, input flaws)
 
 ## Platforms
-- TryHackMe (Active learner)
-- Hack The Box (Active learner)
+- TryHackMe
+- Hack The Box
+- Coursera
 
 ## Contact
 Email: elizabethnwifor@gmail.com
